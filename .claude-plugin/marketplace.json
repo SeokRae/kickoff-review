@@ -1,0 +1,25 @@
+{
+  "name": "kickoff-review",
+  "id": "kickoff-review",
+  "owner": {
+    "name": "sr",
+    "email": "kslbsh@gmail.com"
+  },
+  "metadata": {
+    "description": "착수보고서(Project Charter) 체크리스트 기반 검토 플러그인",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "kickoff-review",
+      "source": "./",
+      "description": "PM 표준 기반 착수보고서 검토 스킬. 완성도·모호성·일관성·리스크를 분석하고 개선 권고사항을 제시한다.",
+      "version": "1.0.0",
+      "author": {
+        "name": "sr"
+      },
+      "keywords": ["kickoff", "review", "charter", "착수보고서", "PM"],
+      "category": "workflow"
+    }
+  ]
+}

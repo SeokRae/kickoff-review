@@ -1,0 +1,11 @@
+{
+  "name": "kickoff-review",
+  "version": "1.0.0",
+  "description": "착수보고서(Project Charter) 체크리스트 기반 검토 플러그인. PM 표준 기반으로 완성도·모호성·일관성·리스크를 분석한다.",
+  "author": {
+    "name": "sr",
+    "email": "kslbsh@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["kickoff", "review", "charter", "착수보고서", "검토", "PM", "project-management"]
+}
